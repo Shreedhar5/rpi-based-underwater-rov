@@ -1,0 +1,6 @@
+Flask
+pigpio
+Adafruit-SSD1306
+opencv-python
+Pillow
+spidev
