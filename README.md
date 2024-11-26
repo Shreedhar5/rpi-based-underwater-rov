@@ -85,7 +85,7 @@ How It Works
 Note
 - Ensure proper waterproofing of all electronics.
 - Test the ROV in a controlled environment before deployment.
-
+- for controller we have design a custum pcb to control the rov
 ---
 
 Let me know if you still need help styling this or making further edits!"# rpi-based-underwater-rov" 
